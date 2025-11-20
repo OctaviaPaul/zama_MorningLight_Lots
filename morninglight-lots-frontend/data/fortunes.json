@@ -1,0 +1,451 @@
+{
+  "1": {
+    "number": 1,
+    "dos": ["Start new projects", "Meet new people", "Take calculated risks"],
+    "donts": ["Avoid procrastination", "Don't overthink decisions"],
+    "inspiration": "Fortune favors the bold. Seize the day!",
+    "category": "Career"
+  },
+  "2": {
+    "number": 2,
+    "dos": ["Practice mindfulness", "Connect with loved ones", "Rest and recharge"],
+    "donts": ["Avoid negative self-talk", "Don't isolate yourself"],
+    "inspiration": "Inner peace is the foundation of outer success.",
+    "category": "Health"
+  },
+  "3": {
+    "number": 3,
+    "dos": ["Express gratitude", "Share your wisdom", "Build meaningful connections"],
+    "donts": ["Avoid hasty judgments", "Don't burn bridges"],
+    "inspiration": "True wealth is measured in relationships.",
+    "category": "Social"
+  },
+  "4": {
+    "number": 4,
+    "dos": ["Set clear boundaries", "Focus on priorities", "Celebrate small wins"],
+    "donts": ["Avoid multitasking", "Don't ignore warning signs"],
+    "inspiration": "Clarity is the mother of achievement.",
+    "category": "Productivity"
+  },
+  "5": {
+    "number": 5,
+    "dos": ["Trust your intuition", "Embrace change", "Learn from failures"],
+    "donts": ["Avoid rigid thinking", "Don't resist the inevitable"],
+    "inspiration": "The only constant in life is change.",
+    "category": "Growth"
+  },
+  "6": {
+    "number": 6,
+    "dos": ["Save for the future", "Invest wisely", "Track your spending"],
+    "donts": ["Avoid impulsive purchases", "Don't ignore financial goals"],
+    "inspiration": "A penny saved is a penny earned.",
+    "category": "Finance"
+  },
+  "7": {
+    "number": 7,
+    "dos": ["Explore new ideas", "Ask questions", "Read widely"],
+    "donts": ["Avoid assumptions", "Don't stop learning"],
+    "inspiration": "Knowledge is power, curiosity is growth.",
+    "category": "Learning"
+  },
+  "8": {
+    "number": 8,
+    "dos": ["Exercise regularly", "Eat balanced meals", "Get enough sleep"],
+    "donts": ["Avoid stress overload", "Don't neglect self-care"],
+    "inspiration": "Health is wealth, protect it daily.",
+    "category": "Health"
+  },
+  "9": {
+    "number": 9,
+    "dos": ["Be honest", "Show compassion", "Practice patience"],
+    "donts": ["Avoid gossip", "Don't hold grudges"],
+    "inspiration": "Kindness is always in fashion.",
+    "category": "Character"
+  },
+  "10": {
+    "number": 10,
+    "dos": ["Set ambitious goals", "Stay persistent", "Network actively"],
+    "donts": ["Avoid complacency", "Don't fear failure"],
+    "inspiration": "Success is a journey, not a destination.",
+    "category": "Career"
+  },
+  "11": {
+    "number": 11,
+    "dos": ["Meditate daily", "Journal your thoughts", "Seek balance"],
+    "donts": ["Avoid burnout", "Don't ignore emotions"],
+    "inspiration": "Balance is not something you find, it's something you create.",
+    "category": "Wellness"
+  },
+  "12": {
+    "number": 12,
+    "dos": ["Communicate openly", "Listen actively", "Resolve conflicts"],
+    "donts": ["Avoid assumptions", "Don't let pride win"],
+    "inspiration": "Good communication is the bridge between confusion and clarity.",
+    "category": "Relationships"
+  },
+  "13": {
+    "number": 13,
+    "dos": ["Try new hobbies", "Visit new places", "Step out of comfort zone"],
+    "donts": ["Avoid routine ruts", "Don't fear the unknown"],
+    "inspiration": "Life begins at the end of your comfort zone.",
+    "category": "Adventure"
+  },
+  "14": {
+    "number": 14,
+    "dos": ["Plan ahead", "Stay organized", "Review progress"],
+    "donts": ["Avoid last-minute stress", "Don't wing important tasks"],
+    "inspiration": "Failing to plan is planning to fail.",
+    "category": "Planning"
+  },
+  "15": {
+    "number": 15,
+    "dos": ["Practice gratitude", "Give back", "Help others"],
+    "donts": ["Avoid selfishness", "Don't take for granted"],
+    "inspiration": "The more you give, the more you receive.",
+    "category": "Generosity"
+  },
+  "16": {
+    "number": 16,
+    "dos": ["Embrace creativity", "Think differently", "Innovate boldly"],
+    "donts": ["Avoid copying others", "Don't stifle imagination"],
+    "inspiration": "Creativity is intelligence having fun.",
+    "category": "Innovation"
+  },
+  "17": {
+    "number": 17,
+    "dos": ["Build trust", "Show integrity", "Keep promises"],
+    "donts": ["Avoid deceit", "Don't break commitments"],
+    "inspiration": "Trust takes years to build, seconds to break.",
+    "category": "Integrity"
+  },
+  "18": {
+    "number": 18,
+    "dos": ["Stay positive", "Find silver linings", "Smile more"],
+    "donts": ["Avoid negativity", "Don't dwell on problems"],
+    "inspiration": "A positive attitude brings positive outcomes.",
+    "category": "Mindset"
+  },
+  "19": {
+    "number": 19,
+    "dos": ["Delegate tasks", "Ask for help", "Build teams"],
+    "donts": ["Avoid doing everything alone", "Don't micromanage"],
+    "inspiration": "Teamwork makes the dream work.",
+    "category": "Leadership"
+  },
+  "20": {
+    "number": 20,
+    "dos": ["Reflect on lessons", "Celebrate growth", "Stay humble"],
+    "donts": ["Avoid arrogance", "Don't forget your roots"],
+    "inspiration": "Humility is the true mark of wisdom.",
+    "category": "Wisdom"
+  },
+  "21": {
+    "number": 21,
+    "dos": ["Take breaks", "Enjoy hobbies", "Laugh often"],
+    "donts": ["Avoid overworking", "Don't forget to play"],
+    "inspiration": "All work and no play makes Jack a dull boy.",
+    "category": "Balance"
+  },
+  "22": {
+    "number": 22,
+    "dos": ["Speak your truth", "Stand up for beliefs", "Be authentic"],
+    "donts": ["Avoid people-pleasing", "Don't hide your light"],
+    "inspiration": "Be yourself, everyone else is taken.",
+    "category": "Authenticity"
+  },
+  "23": {
+    "number": 23,
+    "dos": ["Face your fears", "Build courage", "Take action"],
+    "donts": ["Avoid paralysis by analysis", "Don't let fear win"],
+    "inspiration": "Courage is not the absence of fear, but action despite it.",
+    "category": "Courage"
+  },
+  "24": {
+    "number": 24,
+    "dos": ["Show appreciation", "Say thank you", "Acknowledge efforts"],
+    "donts": ["Avoid taking credit alone", "Don't be ungrateful"],
+    "inspiration": "Gratitude turns what we have into enough.",
+    "category": "Gratitude"
+  },
+  "25": {
+    "number": 25,
+    "dos": ["Set boundaries", "Say no when needed", "Protect your energy"],
+    "donts": ["Avoid burnout", "Don't overcommit"],
+    "inspiration": "No is a complete sentence.",
+    "category": "Boundaries"
+  },
+  "26": {
+    "number": 26,
+    "dos": ["Stay curious", "Ask why", "Explore deeply"],
+    "donts": ["Avoid superficiality", "Don't accept status quo"],
+    "inspiration": "Curiosity is the engine of achievement.",
+    "category": "Curiosity"
+  },
+  "27": {
+    "number": 27,
+    "dos": ["Practice forgiveness", "Let go of resentment", "Move forward"],
+    "donts": ["Avoid holding grudges", "Don't dwell on past hurts"],
+    "inspiration": "Forgiveness is freedom from the past.",
+    "category": "Healing"
+  },
+  "28": {
+    "number": 28,
+    "dos": ["Build resilience", "Bounce back quickly", "Stay strong"],
+    "donts": ["Avoid giving up", "Don't lose hope"],
+    "inspiration": "Fall seven times, stand up eight.",
+    "category": "Resilience"
+  },
+  "29": {
+    "number": 29,
+    "dos": ["Nurture relationships", "Spend quality time", "Show love"],
+    "donts": ["Avoid neglecting loved ones", "Don't take them for granted"],
+    "inspiration": "Love is the greatest gift we can give and receive.",
+    "category": "Love"
+  },
+  "30": {
+    "number": 30,
+    "dos": ["Dream big", "Visualize success", "Believe in yourself"],
+    "donts": ["Avoid limiting beliefs", "Don't underestimate yourself"],
+    "inspiration": "The future belongs to those who believe in their dreams.",
+    "category": "Dreams"
+  },
+  "31": {
+    "number": 31,
+    "dos": ["Stay focused", "Eliminate distractions", "Prioritize goals"],
+    "donts": ["Avoid scattered attention", "Don't lose sight of objectives"],
+    "inspiration": "Where focus goes, energy flows.",
+    "category": "Focus"
+  },
+  "32": {
+    "number": 32,
+    "dos": ["Be patient", "Trust the process", "Give it time"],
+    "donts": ["Avoid rushing", "Don't force outcomes"],
+    "inspiration": "Patience is not waiting, but how you act while waiting.",
+    "category": "Patience"
+  },
+  "33": {
+    "number": 33,
+    "dos": ["Embrace diversity", "Learn from differences", "Stay open-minded"],
+    "donts": ["Avoid prejudice", "Don't close your mind"],
+    "inspiration": "Diversity is not just a strength, it's a superpower.",
+    "category": "Inclusion"
+  },
+  "34": {
+    "number": 34,
+    "dos": ["Take responsibility", "Own your choices", "Be accountable"],
+    "donts": ["Avoid blame", "Don't make excuses"],
+    "inspiration": "Responsibility is the price of freedom.",
+    "category": "Accountability"
+  },
+  "35": {
+    "number": 35,
+    "dos": ["Simplify life", "Declutter space", "Focus on essentials"],
+    "donts": ["Avoid unnecessary complexity", "Don't hoard"],
+    "inspiration": "Simplicity is the ultimate sophistication.",
+    "category": "Simplicity"
+  },
+  "36": {
+    "number": 36,
+    "dos": ["Celebrate victories", "Reward yourself", "Enjoy the moment"],
+    "donts": ["Avoid downplaying success", "Don't rush to next goal"],
+    "inspiration": "Stop and smell the roses along the way.",
+    "category": "Celebration"
+  },
+  "37": {
+    "number": 37,
+    "dos": ["Stay humble", "Remember your beginnings", "Help others rise"],
+    "donts": ["Avoid pride", "Don't forget where you came from"],
+    "inspiration": "Stay humble, stay hungry, stay foolish.",
+    "category": "Humility"
+  },
+  "38": {
+    "number": 38,
+    "dos": ["Be proactive", "Anticipate needs", "Take initiative"],
+    "donts": ["Avoid reactive mode", "Don't wait for others"],
+    "inspiration": "The best way to predict the future is to create it.",
+    "category": "Initiative"
+  },
+  "39": {
+    "number": 39,
+    "dos": ["Maintain balance", "Juggle wisely", "Prioritize self"],
+    "donts": ["Avoid neglecting any area", "Don't sacrifice health for work"],
+    "inspiration": "Balance is the key to everything.",
+    "category": "Life Balance"
+  },
+  "40": {
+    "number": 40,
+    "dos": ["Adapt quickly", "Stay flexible", "Embrace pivot"],
+    "donts": ["Avoid rigidity", "Don't resist change"],
+    "inspiration": "It is not the strongest who survive, but the most adaptable.",
+    "category": "Adaptability"
+  },
+  "41": {
+    "number": 41,
+    "dos": ["Seek mentorship", "Learn from masters", "Find guides"],
+    "donts": ["Avoid going alone", "Don't reinvent the wheel"],
+    "inspiration": "A mentor is a shortcut to wisdom.",
+    "category": "Mentorship"
+  },
+  "42": {
+    "number": 42,
+    "dos": ["Practice discipline", "Build habits", "Stay consistent"],
+    "donts": ["Avoid procrastination", "Don't break streak"],
+    "inspiration": "Discipline is the bridge between goals and accomplishment.",
+    "category": "Discipline"
+  },
+  "43": {
+    "number": 43,
+    "dos": ["Express emotions", "Be vulnerable", "Connect deeply"],
+    "donts": ["Avoid bottling up", "Don't fear openness"],
+    "inspiration": "Vulnerability is the birthplace of connection.",
+    "category": "Emotional Health"
+  },
+  "44": {
+    "number": 44,
+    "dos": ["Stay optimistic", "See opportunities", "Believe in better days"],
+    "donts": ["Avoid pessimism", "Don't lose faith"],
+    "inspiration": "Optimism is the faith that leads to achievement.",
+    "category": "Optimism"
+  },
+  "45": {
+    "number": 45,
+    "dos": ["Build legacy", "Impact lives", "Leave mark"],
+    "donts": ["Avoid living for self only", "Don't forget your purpose"],
+    "inspiration": "We make a living by what we get, but we make a life by what we give.",
+    "category": "Legacy"
+  },
+  "46": {
+    "number": 46,
+    "dos": ["Stay grounded", "Remember values", "Keep perspective"],
+    "donts": ["Avoid losing yourself", "Don't chase hollow goals"],
+    "inspiration": "Stay true to who you are, not who the world wants you to be.",
+    "category": "Authenticity"
+  },
+  "47": {
+    "number": 47,
+    "dos": ["Network strategically", "Build alliances", "Collaborate"],
+    "donts": ["Avoid isolation", "Don't compete unnecessarily"],
+    "inspiration": "Your network is your net worth.",
+    "category": "Networking"
+  },
+  "48": {
+    "number": 48,
+    "dos": ["Invest in skills", "Upgrade knowledge", "Stay relevant"],
+    "donts": ["Avoid stagnation", "Don't rest on laurels"],
+    "inspiration": "An investment in knowledge pays the best interest.",
+    "category": "Self-Development"
+  },
+  "49": {
+    "number": 49,
+    "dos": ["Practice empathy", "Walk in others' shoes", "Understand deeply"],
+    "donts": ["Avoid judgment", "Don't dismiss feelings"],
+    "inspiration": "Empathy is seeing with the eyes of another.",
+    "category": "Empathy"
+  },
+  "50": {
+    "number": 50,
+    "dos": ["Stay consistent", "Show up daily", "Build momentum"],
+    "donts": ["Avoid sporadic effort", "Don't give up early"],
+    "inspiration": "Consistency is the key to mastery.",
+    "category": "Consistency"
+  },
+  "51": {
+    "number": 51,
+    "dos": ["Pursue excellence", "Raise standards", "Do your best"],
+    "donts": ["Avoid mediocrity", "Don't settle for less"],
+    "inspiration": "Excellence is not a skill, it's an attitude.",
+    "category": "Excellence"
+  },
+  "52": {
+    "number": 52,
+    "dos": ["Stay present", "Live in now", "Savor moments"],
+    "donts": ["Avoid dwelling on past or worrying about future", "Don't miss today"],
+    "inspiration": "Yesterday is history, tomorrow is a mystery, today is a gift.",
+    "category": "Presence"
+  },
+  "53": {
+    "number": 53,
+    "dos": ["Seek feedback", "Accept criticism", "Grow from input"],
+    "donts": ["Avoid defensiveness", "Don't ignore feedback"],
+    "inspiration": "Feedback is the breakfast of champions.",
+    "category": "Growth"
+  },
+  "54": {
+    "number": 54,
+    "dos": ["Take risks", "Bet on yourself", "Go all in"],
+    "donts": ["Avoid playing it too safe", "Don't let fear paralyze"],
+    "inspiration": "The biggest risk is not taking any risk.",
+    "category": "Risk"
+  },
+  "55": {
+    "number": 55,
+    "dos": ["Celebrate others", "Lift people up", "Share spotlight"],
+    "donts": ["Avoid envy", "Don't diminish others"],
+    "inspiration": "A candle loses nothing by lighting another candle.",
+    "category": "Generosity"
+  },
+  "56": {
+    "number": 56,
+    "dos": ["Stay curious about life", "Never stop wondering", "Keep exploring"],
+    "donts": ["Avoid cynicism", "Don't lose childlike wonder"],
+    "inspiration": "The cure for boredom is curiosity.",
+    "category": "Wonder"
+  },
+  "57": {
+    "number": 57,
+    "dos": ["Build confidence", "Believe in abilities", "Trust yourself"],
+    "donts": ["Avoid self-doubt", "Don't compare to others"],
+    "inspiration": "Confidence is not 'they will like me'. It's 'I'll be fine if they don't'.",
+    "category": "Confidence"
+  },
+  "58": {
+    "number": 58,
+    "dos": ["Prioritize sleep", "Rest deeply", "Recharge fully"],
+    "donts": ["Avoid sacrificing rest", "Don't glorify exhaustion"],
+    "inspiration": "Sleep is the best meditation.",
+    "category": "Rest"
+  },
+  "59": {
+    "number": 59,
+    "dos": ["Practice mindful eating", "Nourish body", "Enjoy food"],
+    "donts": ["Avoid mindless snacking", "Don't skip meals"],
+    "inspiration": "Let food be thy medicine.",
+    "category": "Nutrition"
+  },
+  "60": {
+    "number": 60,
+    "dos": ["Move your body", "Stay active", "Exercise joy"],
+    "donts": ["Avoid sedentary life", "Don't neglect physical health"],
+    "inspiration": "Movement is medicine.",
+    "category": "Fitness"
+  },
+  "61": {
+    "number": 61,
+    "dos": ["Practice digital detox", "Unplug regularly", "Connect in person"],
+    "donts": ["Avoid screen addiction", "Don't miss real life"],
+    "inspiration": "The real world is still the best world.",
+    "category": "Digital Wellness"
+  },
+  "62": {
+    "number": 62,
+    "dos": ["Cultivate joy", "Find happiness in small things", "Smile often"],
+    "donts": ["Avoid postponing happiness", "Don't wait for perfect"],
+    "inspiration": "Happiness is not a destination, it's a way of life.",
+    "category": "Joy"
+  },
+  "63": {
+    "number": 63,
+    "dos": ["Respect time", "Use it wisely", "Value every moment"],
+    "donts": ["Avoid wasting time", "Don't procrastinate"],
+    "inspiration": "Time is the most valuable thing you can spend.",
+    "category": "Time"
+  },
+  "64": {
+    "number": 64,
+    "dos": ["End with gratitude", "Count blessings", "Appreciate journey"],
+    "donts": ["Avoid taking for granted", "Don't forget to be thankful"],
+    "inspiration": "Gratitude is the fairest blossom which springs from the soul.",
+    "category": "Gratitude"
+  }
+}
+
